@@ -19,4 +19,3 @@ Clean design. Smooth interaction. Ready to connect.</p>
 ## 🔧 Technologies Used
   <p>HTML5</p>
   <p>CSS3 (with Google Fonts + Flexbox)</p>
----
