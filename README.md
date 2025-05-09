@@ -1,5 +1,5 @@
-A stylish, responsive contact form with floating labels and a modern glassmorphism UI
-Clean design. Smooth interaction. Ready to connect.
+<p>A stylish, responsive contact form with floating labels and a modern glassmorphism UI
+Clean design. Smooth interaction. Ready to connect.</p>
 ---
 ## 🚀 Live Preview : https://lokesh-soft-dev.github.io/modern-contact-form/
 ---
@@ -16,6 +16,6 @@ Clean design. Smooth interaction. Ready to connect.
 
 ---
 🔧 Technologies Used
-  HTML5
-  CSS3 (with Google Fonts + Flexbox)
+  <p>HTML5</p>
+  <p>CSS3 (with Google Fonts + Flexbox)</p>
 ---
