@@ -15,7 +15,11 @@ Clean design. Smooth interaction. Ready to connect.</p>
 
 ⚡ Ready to integrate into any website
 
-
+---
 ## 🔧 Technologies Used
   <p>HTML5</p>
   <p>CSS3 (with Google Fonts + Flexbox)</p>
+
+## ✨ Author
+
+**LOKESH K**  
